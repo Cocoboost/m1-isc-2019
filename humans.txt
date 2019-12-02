@@ -1,2 +1,3 @@
 Guillaume,Jambet,1975-11-01,guillaume.jambet@gmail.com,gjambet 
 Lucas,Brignoli,1996-02-03,luasbrign@gmail.com,dontcrenie
+Adrien,Brianne, 1995-09-18,adrien.brianne@etu.univ-smb.fr,Cocoboost
